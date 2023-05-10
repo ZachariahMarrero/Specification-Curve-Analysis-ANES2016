@@ -1,3 +1,5 @@
+This folder contains a whole bunch of plots generated based on our analysis.  The plots are color coded according to a variety of different conditions. In the original formalulation of specification curve analysis, you might compute a median effect and use a formal test to evaluate it. We didn't think this was necessarily the most reasonable choice as all of the specification are dervied from the same dataset.  An alternative would be to construct three sets: training, validation, and testing.  The training and validation data could be used for model estiamtion and the testing set for model testing.  In our implementation, we only used training and validation.  So, many of the plots are colored by their corresponding out-of-sample R-squared values. 
+
 #adj.rsquared 
 	- This is the adjusted required typically provided by summary(lm())
 #IV.CV.slopes.bin 
