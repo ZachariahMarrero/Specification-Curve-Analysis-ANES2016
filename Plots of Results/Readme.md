@@ -45,7 +45,6 @@
 	- This is the difference of r-squared between a model with the IV in and a model with the IV left out. Where the r-squared is the out-of-sample r-squared and where negative values were set to 0 before taking the difference.  
 
 #squaredoutofsample.semipartial.proportionofvarianceexplained
-
 	- This is the ratio of the out-of-sample squared semipartial correlation and the total r-squared correlation.  If the total r-squared was 0 and the semipartial wasn't then the value here is 1.
 
 #squaredoutofsample.semipartial
