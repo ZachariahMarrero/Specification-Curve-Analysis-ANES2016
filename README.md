@@ -17,7 +17,7 @@ Note: While the script will run succesffully, I would not recommend this approac
 	- This is the 'master' script for plotting results. It depends on 'Graphy.function.R' and 'Ploty.mcplot.function.R' 
 
 3. Graphy.function.R
-	- This function does some data wrangling/transformation for the plots.  It operates on our results in "Phase_1_results_7200_Specifications_anes2016_data".
+	- This function does some data wrangling/transformation for the plots.  It operates on our results in "Anes_phase_1_results_final_no_supdem_mean" and "Anes_phase_1_results_final_supdem_meanonly".
 
 4. Ploty.mcplot.function.R
 	- This function builds the plots.  
