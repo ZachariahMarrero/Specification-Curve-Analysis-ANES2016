@@ -14,7 +14,7 @@ Note: While the script will run succesffully, I would not recommend this approac
 1. SCA fitting procedures.R 
 	- This is a script that will execute all of the model fitting and results storage.
 2. ggplots for SCA.R
-	- This is the 'master' script for plotting results. It depends on 'Graphy.function' and 'plot.mcplot.function' 
+	- This is the 'master' script for plotting results. It depends on 'Graphy.function.R' and 'Ploty.mcplot.function.R' 
 
 3. Graphy.function.R
 	- This function does some data wrangling/transformation for the plots.  It operates on our results in "Phase_1_results_7200_Specifications_anes2016_data".
