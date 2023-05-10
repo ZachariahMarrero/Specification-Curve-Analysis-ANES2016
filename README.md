@@ -22,7 +22,7 @@ Note: While the script will run succesffully, I would not recommend this approac
 4. Ploty.mcplot.function.R
 	- This function builds the plots.  
 
-5. Phase_1_results_7200_Specifications_anes2016_data
+5. Anes_phase_1_results_final_no_supdem_mean and Anes_phase_1_results_final_supdem_meanonly
 	- These are the results of 7200 planned model fits from our first phase. At some point there was an additional DV that may have been missed but was in the plan.  I just left it in from a previous draft. So the total is actually 7920 in this file.  
 	- Following an update where supdem variables were averaged, there are now 9504 models for each of the 6 subsamples. This new number was made by splitting the political orientation variable off of the demographics variable.  So from 5 to 6 covariate sets.  And by including null models for comparison where we have no IV in the equation but we do have the various covariate sets. 
 
