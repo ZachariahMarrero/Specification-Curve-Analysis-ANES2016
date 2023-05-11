@@ -2,6 +2,7 @@
 
 #adj.rsquared 
 	- This is the adjusted required typically provided by summary(lm())
+
 #IV.CV.slopes.bin 
 	- This is the average slope of the Independent Variable taken across the cross-validation procedure.
 
